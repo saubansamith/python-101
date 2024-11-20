@@ -29,3 +29,4 @@ else:
   answer = 'Error'
   
 print('Magic 8 Ball:  ' + answer)
+
